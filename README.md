@@ -1,0 +1,1 @@
+This repo is a demonstration of Neural Search in OpenSearch. You can read about it on my website.
