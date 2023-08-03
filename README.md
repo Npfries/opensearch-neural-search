@@ -1,1 +1,1 @@
-This repo is a demonstration of Neural Search in OpenSearch. You can read about it on my website.
+This repo is a demonstration of Neural Search in OpenSearch. You can read about it on my post [Neural Search Quickstart for OpenSearch ](https://nathanfries.com/posts/opensearch-neural-search/).
